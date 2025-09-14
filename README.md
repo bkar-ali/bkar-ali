@@ -2,8 +2,8 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&logo=facebook&logoColor=white)](https://facebook.com/BkarAli)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://instagram.com/bkar_ali7)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](bkarali345@gmail.com)
 
 ---
 
