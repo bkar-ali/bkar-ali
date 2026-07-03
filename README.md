@@ -1,91 +1,145 @@
-# Hi there 👋, I'm Aboubakr Ali Mahmoud
+<h1 align="center">Hi 👋, I'm Aboubakr Ali Mahmoud</h1>
 
-### 🚀 Junior Full Stack Developer | MERN Stack Developer
+<h3 align="center">Junior Full Stack Developer | MERN Stack Developer</h3>
 
-I'm a passionate Full Stack Developer focused on building scalable, modern, and high-performance web applications using the MERN Stack.
+<p align="center">
+Building scalable web applications with modern JavaScript technologies.
+</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Junior Full Stack Developer specializing in the **MERN Stack**
+- 🚀 Building scalable and responsive web applications
 - 🌱 Currently learning **Advanced Backend Development & System Design**
-- 💼 Looking for **Junior Full Stack Developer** opportunities
-- 🚀 Building real-world MERN applications
-- 💡 Passionate about Clean Code, Performance, and Problem Solving
-- 📫 Reach me at: **bkarali345@gmail.com**
+- 💡 Passionate about Clean Code, Performance Optimization, and Problem Solving
+- 🎯 Looking for my first Full Stack Developer opportunity
 
 ---
 
-## 🌍 Connect with Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubakr-ali-689272255/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-jade-seven-41.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bkar-ali)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkarali345@gmail.com)
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abubakr-ali-689272255/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:bkarali345@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/bkar-ali">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://my-portfolio-jade-seven-41.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap"/>
+
+</p>
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
 
-### State Management
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-
-### Styling
-
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode"/>
+
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway"/>
+
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=bkar-ali&theme=tokyonight&show_icons=true&hide_border=true)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bkar-ali&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bkar-ali&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bkar-ali&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkar-ali&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</p>
 
-# 🏆 GitHub Trophies
+<p align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=bkar-ali&theme=tokyonight&no-frame=true&margin-w=15)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bkar-ali&theme=tokyonight&hide_border=true"/>
 
----
-
-# 🚀 Current Focus
-
-- ⚡ Building Production-ready MERN Applications
-- 🔥 Advanced Backend Development
-- 🏗 REST APIs & Authentication
-- 📈 Clean Architecture
-- 🌍 Open Source Contributions
-- 🎯 Landing my first Full Stack Developer role
+</p>
 
 ---
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+## 🏆 GitHub Trophies
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bkar-ali&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Aboubakr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkar-ali&theme=tokyo-night)](https://github.com/bkar-ali)
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 MERN Stack Development
+- ⚙️ Backend Development
+- 🔐 Authentication & Authorization
+- 🌐 REST APIs
+- 📦 Clean Architecture
+- 📚 Data Structures & Algorithms
+
+---
+
+## 💬 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bkar-ali&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
