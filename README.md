@@ -2,138 +2,153 @@
 
 # Aboubakr Ali Mahmoud
 
-### Full Stack Developer (MERN)
+### Full Stack Developer • MERN Stack
 
-Building modern, scalable web applications with React, Next.js, Node.js, Express, and MongoDB.
+Building fast, scalable and user-focused web applications.
 
-<br>
+<p>
 
-[Portfolio](https://my-portfolio-jade-seven-41.vercel.app/) •
-[LinkedIn](https://www.linkedin.com/in/abubakr-ali-689272255/) •
-[GitHub](https://github.com/bkar-ali) •
-[Email](mailto:bkarali345@gmail.com)
+<a href="https://my-portfolio-jade-seven-41.vercel.app/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/abubakr-ali-689272255/">LinkedIn</a> •
+<a href="mailto:bkarali345@gmail.com">Email</a>
+
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=23&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+MongoDB;Always+Building+Something+New" />
 
 </div>
 
 ---
 
-## About
+# About
 
-I'm a Full Stack Developer passionate about building performant, scalable, and user-friendly web applications.
+```ts
+const developer = {
+  name: "Aboubakr Ali Mahmoud",
 
-My main focus is the **MERN Stack**, where I enjoy transforming ideas into real-world products while writing clean, maintainable code.
+  role: "Full Stack Developer",
 
-Currently looking for opportunities to contribute, learn, and grow within a professional engineering team.
+  stack: "MERN",
 
----
+  location: "Cairo, Egypt",
 
-## Tech Stack
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Redux Toolkit",
+    "Zustand",
+    "Tailwind CSS"
+  ],
 
-### Languages
+  backend: [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST APIs",
+    "JWT Authentication"
+  ],
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-</p>
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "Axios",
+    "Railway",
+    "Figma"
+  ],
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Zustand-black?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway"/>
-
-</p>
-
----
-
-## Current Focus
-
-- Full Stack Development
-- REST APIs
-- Authentication & Authorization
-- Clean Architecture
-- Performance Optimization
-- System Design Fundamentals
+  currentlyLearning: [
+    "System Design",
+    "Clean Architecture",
+    "Backend Performance"
+  ]
+};
+```
 
 ---
 
-## Featured Projects
+# Tech Stack
 
-### 🛒 E-Commerce Platform
+<p align="center">
 
-A production-ready MERN application featuring authentication, role-based authorization, admin dashboard, product management, shopping cart, and responsive UI.
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,postman,figma,vscode"/>
 
-**Tech**
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+### 🛒 MERN E-Commerce
+
+A scalable e-commerce platform with authentication, admin dashboard, shopping cart, product management and responsive UI.
+
+**Stack**
 
 React • Redux Toolkit • Node.js • Express • MongoDB
 
 ---
 
-### 📋 Task Manager
+### 💼 Job Portal
 
-A full-stack productivity application with authentication, CRUD operations, protected routes, and responsive design.
+A modern recruitment platform with authentication, search, filtering and dashboard.
 
-**Tech**
+**Stack**
 
-Next.js • TypeScript • Zustand
-
----
-
-### 🎬 Movie App
-
-Movie discovery application using REST APIs with modern UI and optimized performance.
-
-**Tech**
-
-React • Axios • Tailwind CSS
+Next.js • TypeScript • Node.js • MongoDB
 
 ---
 
-## GitHub Stats
+### 📋 Task Management App
+
+Productivity application with protected routes, CRUD operations and responsive interface.
+
+**Stack**
+
+React • Zustand • Express.js
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bkar-ali&show_icons=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bkar-ali&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkar-ali&layout=compact&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkar-ali&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=bkar-ali&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## Philosophy
+# Currently
 
-```ts
-while (!success) {
-    learn();
-    build();
-    improve();
-}
-```
+- 🚀 Building production-ready MERN applications
+- 📚 Learning System Design
+- ⚡ Improving backend architecture
+- 🔐 Authentication & Authorization
+- 🌍 Writing clean and maintainable code
 
 ---
 
-<div align="center">
+# Philosophy
 
-**Always building. Always learning.**
-
-</div>
+> **"Code is like humor. When you have to explain it, it's bad."**  
+> — Cory House
