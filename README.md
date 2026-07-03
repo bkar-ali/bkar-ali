@@ -1,84 +1,76 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aboubakr Ali Mahmoud</h1>
 
-# Aboubakr Ali Mahmoud
+<h3 align="center">Junior Full Stack Developer | MERN Stack Developer</h3>
 
-### Full Stack Developer • MERN Stack
+<p align="center">
+Building scalable web applications with modern JavaScript technologies.
+</p>
 
-Building fast, scalable and user-focused web applications.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Junior+Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Junior Full Stack Developer specializing in the **MERN Stack**
+- 🚀 Building scalable and responsive web applications
+- 🌱 Currently learning **Advanced Backend Development & System Design**
+- 💡 Passionate about Clean Code, Performance Optimization, and Problem Solving
+- 🎯 Looking for my first Full Stack Developer opportunity
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abubakr-ali-689272255/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:bkarali345@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/bkar-ali">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://my-portfolio-jade-seven-41.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
 
 <p>
 
-<a href="https://my-portfolio-jade-seven-41.vercel.app/">Portfolio</a> •
-<a href="https://www.linkedin.com/in/abubakr-ali-689272255/">LinkedIn</a> •
-<a href="mailto:bkarali345@gmail.com">Email</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap"/>
 
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=23&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+MongoDB;Always+Building+Something+New" />
+### Backend
 
-</div>
+<p>
 
----
-
-# About
-
-```ts
-const developer = {
-  name: "Aboubakr Ali Mahmoud",
-
-  role: "Full Stack Developer",
-
-  stack: "MERN",
-
-  location: "Cairo, Egypt",
-
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Redux Toolkit",
-    "Zustand",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "REST APIs",
-    "JWT Authentication"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "Axios",
-    "Railway",
-    "Figma"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Clean Architecture",
-    "Backend Performance"
-  ]
-};
-```
-
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,git,github,postman,figma,vscode"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
 </p>
 
-<p align="center">
+### Tools
 
-<img src="https://img.shields.io/badge/Zustand-181717?style=for-the-badge"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode"/>
+
+<img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge"/>
 
@@ -88,67 +80,66 @@ const developer = {
 
 ---
 
-# Featured Projects
-
-### 🛒 MERN E-Commerce
-
-A scalable e-commerce platform with authentication, admin dashboard, shopping cart, product management and responsive UI.
-
-**Stack**
-
-React • Redux Toolkit • Node.js • Express • MongoDB
-
----
-
-### 💼 Job Portal
-
-A modern recruitment platform with authentication, search, filtering and dashboard.
-
-**Stack**
-
-Next.js • TypeScript • Node.js • MongoDB
-
----
-
-### 📋 Task Management App
-
-Productivity application with protected routes, CRUD operations and responsive interface.
-
-**Stack**
-
-React • Zustand • Express.js
-
----
-
-# GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bkar-ali&show_icons=true&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bkar-ali&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkar-ali&layout=compact&hide_border=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkar-ali&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=bkar-ali&theme=transparent&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bkar-ali&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# Currently
+## 🏆 GitHub Trophies
 
-- 🚀 Building production-ready MERN applications
-- 📚 Learning System Design
-- ⚡ Improving backend architecture
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bkar-ali&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Aboubakr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bkar-ali&theme=tokyo-night)](https://github.com/bkar-ali)
+
+---
+
+## 🔥 Current Focus
+
+- 🚀 MERN Stack Development
+- ⚙️ Backend Development
 - 🔐 Authentication & Authorization
-- 🌍 Writing clean and maintainable code
+- 🌐 REST APIs
+- 📦 Clean Architecture
+- 📚 Data Structures & Algorithms
 
 ---
 
-# Philosophy
+## 💬 Favorite Quote
 
-> **"Code is like humor. When you have to explain it, it's bad."**  
-> — Cory House
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bkar-ali&label=Profile%20Views&color=3b82f6&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
